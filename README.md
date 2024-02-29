@@ -2,10 +2,11 @@
 Actividad n.6
 
 EMILIANO ORTIZ PEREZ , Frontend
-Tamaño de la matriz
-Elaboracion de la matriz
-Diseño a la matriz
+commit 1: Tamaño de la matriz
 
+commit 2: Elaboracion de la matriz
+
+commit 3: Diseño a la matriz
 
 
 LUIS YAEL HERNANDEZ MARTINEZ, Backend
