@@ -1,6 +1,8 @@
 # Actividad-06--Laberinto-Divide-y-Venceras
 Actividad n.6
 
+https://github.com/Criscv/Actividad-06--Laberinto-Divide-y-Venceras
+
 EMILIANO ORTIZ PEREZ , Frontend
 commit 1: Tamaño de la matriz
 
