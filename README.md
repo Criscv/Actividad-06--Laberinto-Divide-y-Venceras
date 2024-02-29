@@ -24,4 +24,10 @@ comimit4: cracion de matriz con camino resuelto
 
 CRISTIAN CHAVEZ VELASCO, Administrador
 
+commit 1: Empezar con la elaboracion del reporte
+commit 2: Empezar con la elaboracion de la exposicion
+commit 3: Avance del reporte
+commit 4: Avance de la exposicion
+commit 5: Final del reporte
+commit 6: Final de la exposicion
 
