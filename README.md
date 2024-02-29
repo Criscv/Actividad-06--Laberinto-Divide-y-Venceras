@@ -2,7 +2,9 @@
 Actividad n.6
 
 EMILIANO ORTIZ PEREZ , Frontend
-
+Tamaño de la matriz
+Elaboracion de la matriz
+Diseño a la matriz
 
 
 
